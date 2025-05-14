@@ -3,9 +3,9 @@ This is a basic shell script to total up the capacity in each PowerFlex Replicat
 
 The script will create a .csv file with the capacity information by host.
 
-![Screenshot of the script completing a run.](https://github.com/murphyry/powerflex-host-capacity/blob/main/rcg_script_output_example.png)
+![Screenshot of the script completing a run.](https://github.com/murphyry/powerflex-replication-capacity/blob/main/rcg_script_output_example.png)
 
-![Screenshot of the csv output from the script.](https://github.com/murphyry/powerflex-host-capacity/blob/main/rcg_csv_example.png)
+![Screenshot of the csv output from the script.](https://github.com/murphyry/powerflex-replication-capacity/blob/main/rcg_csv_example.png)
 
 # Directions
 ### Pre-reqs:
